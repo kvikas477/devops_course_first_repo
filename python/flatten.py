@@ -6,5 +6,6 @@ for i in x:
             res.append(item)
     elif isinstance(i, int):
         res.append(i)
-
 print(res)
+
+
